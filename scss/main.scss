@@ -347,12 +347,13 @@ p{
     flex-direction: row;
     justify-content: center;
     
-    height:68vh;
+    height:75vh;
     div h2{
         display: flex;
         justify-content: center;
         align-items: center;
     }
+
 }
 
 .form-log-in{
@@ -554,6 +555,7 @@ td, th {
         
         justify-content: space-evenly;
         align-items: flex-start;
+        height: 80vh;
     }
     
     .cart-aside h2{

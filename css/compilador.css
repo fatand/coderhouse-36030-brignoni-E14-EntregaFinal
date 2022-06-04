@@ -389,7 +389,7 @@ p {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  height: 68vh; }
+  height: 75vh; }
   .log-in-main div h2 {
     display: flex;
     justify-content: center;
@@ -539,7 +539,8 @@ th {
     display: grid;
     grid-template-areas: "cart-section1 cart-aside";
     justify-content: space-evenly;
-    align-items: flex-start; }
+    align-items: flex-start;
+    height: 80vh; }
   .cart-aside h2 {
     text-align: left; }
   .cart-aside p {

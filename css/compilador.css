@@ -389,6 +389,7 @@ p {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  align-items: center;
   height: 75vh; }
   .log-in-main div h2 {
     display: flex;
